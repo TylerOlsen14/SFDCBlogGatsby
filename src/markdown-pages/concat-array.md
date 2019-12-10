@@ -32,4 +32,4 @@ const b = [4,5];
 const c = [...a, ...b];
 console.log(c); // [1,2,3,4,5]
 ```
-![](https://cdn-images-1.medium.com/max/800/1*3X6EiKc-njoRpCB1AWnv3Q.png)
+![]()

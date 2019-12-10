@@ -24,4 +24,4 @@ With a `while` loop, you can do:
 const hello = "hello";
 ```
 They both involve increment indexes up to the maximum.
-![](https://cdn-images-1.medium.com/max/800/1*3X6EiKc-njoRpCB1AWnv3Q.png)
+![]()
